@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 Hello ~~
+
+
 
 Hi Peter
 
@@ -7,3 +10,9 @@ My name is Peter
 add new line
 
 又是我
+=======
+Hello 
+
+I‘m Peter
+add new line 
+>>>>>>> issue
